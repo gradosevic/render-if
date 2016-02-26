@@ -1,4 +1,6 @@
-# render-if - React component for adding rendering conditions
+# render-if
+
+> React component for adding rendering conditions
 
 ## Example:
 
